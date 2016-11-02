@@ -1,0 +1,10 @@
+S:\SourceCode\Url-Shortener-master\MvcUrlShortener\bin\MvcUrlShortener.dll
+S:\SourceCode\Url-Shortener-master\MvcUrlShortener\bin\MvcUrlShortener.pdb
+S:\SourceCode\Url-Shortener-master\MvcUrlShortener\bin\Ninject.dll
+S:\SourceCode\Url-Shortener-master\MvcUrlShortener\bin\UrlShortener.Domain.dll
+S:\SourceCode\Url-Shortener-master\MvcUrlShortener\bin\UrlShortener.Domain.pdb
+S:\SourceCode\Url-Shortener-master\MvcUrlShortener\bin\Ninject.pdb
+S:\SourceCode\Url-Shortener-master\MvcUrlShortener\bin\Ninject.xml
+S:\SourceCode\Url-Shortener-master\MvcUrlShortener\obj\Debug\MvcUrlShortener.csprojResolveAssemblyReference.cache
+S:\SourceCode\Url-Shortener-master\MvcUrlShortener\obj\Debug\MvcUrlShortener.dll
+S:\SourceCode\Url-Shortener-master\MvcUrlShortener\obj\Debug\MvcUrlShortener.pdb

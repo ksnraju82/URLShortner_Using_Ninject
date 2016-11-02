@@ -1,0 +1,5 @@
+S:\SourceCode\Url-Shortener-master\UrlShortener.Domain\bin\Debug\UrlShortener.Domain.dll
+S:\SourceCode\Url-Shortener-master\UrlShortener.Domain\bin\Debug\UrlShortener.Domain.pdb
+S:\SourceCode\Url-Shortener-master\UrlShortener.Domain\obj\Debug\UrlShortener.Domain.dll
+S:\SourceCode\Url-Shortener-master\UrlShortener.Domain\obj\Debug\UrlShortener.Domain.pdb
+S:\SourceCode\Url-Shortener-master\UrlShortener.Domain\obj\Debug\UrlShortener.Domain.csprojResolveAssemblyReference.cache
