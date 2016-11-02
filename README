@@ -1,1 +1,12 @@
-Simple Url shortener in ASP.NET MVC using LINQ to SQL
+This application is divided into 3 projects.
+MVCURLShortner client : 
+Install Ninject from Nuget package manager (repository pattern to loosely couple controller and data entities)
+Controller will be using URLShortner module to cut down the url.
+
+URLShortnerModule : 
+Map the domain class with the database
+In service folder, create interface and class for the logic to shorten the url
+The shortnerservice , referes to IdEncoder which is having the main logic to encode and decode the url.
+
+Test Project : 
+nunit test project with encoding and decoding logic.
